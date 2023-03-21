@@ -1,2 +1,3 @@
 # Python
-Apenas um repositório criado por Lara Gava com alguns exercícios das aulas do Curso em Vídeo :)
+Repositório com alguns exercícios relacionados a Python <3
+Confira a documentação para entendimento do Python Básico feito por mim e pelo meu time :)
